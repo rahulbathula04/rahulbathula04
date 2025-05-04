@@ -25,13 +25,13 @@ Building **Vendix** – the platform where founders shine, pitch, and scale with
 
 ---
 
-## 👀 I’m Interested In...
+## Interested In...
 - AI-powered platforms that reduce friction and boost founder productivity  
 - Creator economy meets startup fundraising  
 - SaaS, marketplaces, and smart automation tools  
 - Strategic partnerships that drive exponential growth  
 
-## I’m Currently Learning...
+## Currently Learning...
 - Full-stack product development (React, Firebase, React Native)  
 - OpenAI integrations for Copilot-style AI automation  
 - Growth hacking for early-stage platforms  

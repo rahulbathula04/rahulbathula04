@@ -5,11 +5,11 @@
 
 ---
 
-# 👋 Hi there, I'm Rahul Bathula (@rahulbathula04)
+# Hi there, I'm Rahul Bathula (@rahulbathula04)
 
-🚀 Business Development Manager turned Tech Enthusiast  
-🧠 Obsessed with AI, Automation & Disrupting the E-Marketplace  
-🎯 Building **Vendix** – the platform where founders shine, pitch, and scale with zero manual work.
+Business Development Manager turned Tech Enthusiast  
+Obsessed with AI, Automation & Disrupting the E-Marketplace  
+Building **Vendix** – the platform where founders shine, pitch, and scale with zero manual work.
 
 ---
 
@@ -31,13 +31,13 @@
 - SaaS, marketplaces, and smart automation tools  
 - Strategic partnerships that drive exponential growth  
 
-## 🌱 I’m Currently Learning...
+## I’m Currently Learning...
 - Full-stack product development (React, Firebase, React Native)  
 - OpenAI integrations for Copilot-style AI automation  
 - Growth hacking for early-stage platforms  
 - How to blend storytelling and tech for founder success  
 
-## 💞️ I’m Looking to Collaborate On...
+##  I’m Looking to Collaborate On...
 - AI-driven SaaS products that empower entrepreneurs  
 - No-code/low-code tools with real business impact  
 - Tech content creation with a startup lens  
@@ -48,7 +48,7 @@
 - 📧 rahulbathula04@gmail.com
 - 🐦 [Twitter/X](https://twitter.com/rahulbathula04)
 
-## 😄 Pronouns:
+##  Pronouns:
 He/Him
 
 ## ⚡ Fun Fact:

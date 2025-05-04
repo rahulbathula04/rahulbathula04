@@ -13,7 +13,7 @@ Building **Vendix** – the platform where founders shine, pitch, and scale with
 
 ---
 
-## 📌 Tech Stack & Tools
+##  Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>

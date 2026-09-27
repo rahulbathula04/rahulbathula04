@@ -1,95 +1,73 @@
-<!-- Dynamic Header Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&width=900&lines=Welcome+to+my+digital+ecosystem+%F0%9F%91%8B;Rahul+Bathula+%7C+Founder+%26+Innovation+Strategist;Architecting+Vendix+%E2%80%94+Redefining+Entrepreneurial+Success;Where+AI+meets+Marketplace+Evolution" alt="Typing SVG" />
-</p>
-
 <div align="center">
-  
-  # Rahul Bathula | Strategic Innovation Architect
-  
-  *Transforming Business Development Expertise into Technological Innovation*
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulbathula/)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rahulbathula04)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulbathula04@gmail.com)
-  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:334155&height=160&section=header&text=Rahul%20Bathula&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=64748B&center=true&vCenter=true&width=600&lines=Cross-functional+operator+at+Arzon+Global;Building+Jewels+by+Dyaa+and+Tesly;Turning+business+problems+into+working+systems" alt="Typing SVG" />
+</a>
+
 </div>
 
----
+I work across pre-sales, post-sales, operations, HR, and marketing at **Arzon Global**, and I build the products, dashboards, and internal systems that connect them. I'm also co-building **Jewels by Dyaa** and **Tesly**. My tools are React, Supabase, Cloudflare, and AI — I use them to turn business problems into working systems, not the other way around.
 
-## Professional Synopsis
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:e2e8f0,100:e2e8f0&height=2&width=1000" />
 
-Leveraging a distinguished background in Business Development to pioneer technological solutions that transcend conventional paradigms. As the visionary founder of **Vendix**, I'm orchestrating an AI-powered ecosystem where entrepreneurial innovation flourishes unencumbered by operational friction.
+## What I actually do
 
-My mission: empowering founders to articulate their vision, cultivate strategic partnerships, and scale with unprecedented efficiency—all through intelligent automation.
+I'm not a traditional software engineer, and I'm not a "visionary founder" either. I operate at the intersection of:
 
----
+**Business + Product + Technology + Operations + Growth + People**
 
-## Technological Proficiencies
+A typical week looks like: understand a business problem (a sales team missing targets, a student not converting, a hiring funnel with no visibility) → design the process and the product/system that fixes it → build it, often hands-on in the codebase → get it into operation → measure and iterate.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
+## Where I work
 
----
+### Arzon Global — Cross-Functional Manager
+I don't sit in one department. I work across five functions — Pre-Sales, Post-Sales, Operations, HR, and Business Marketing — and I build systems that connect them:
 
-## Areas of Intellectual Pursuit
+- **Arzon Careers** — a career and workforce intelligence platform, going beyond a job portal: job demand, skill gaps, salary and location data, career paths, and a Job Map of hiring activity across India. I've worked on the product, UI/UX, funnel, data, and AI layer.
+- **ASSAY** — an industry-readiness and employability platform. Not a quiz — it measures whether someone is actually deployable in a role (skill gaps, practical capability, interview readiness), producing a readiness score used by learners, colleges, and employers.
+- **ACRI (Arzon Critical Research Index)** — the assessment/intelligence layer behind ASSAY, starting in healthcare and life sciences (pharmacovigilance, medical coding, clinical research, regulatory affairs, clinical data management).
+- **Arzon OS** — an internal operating system connecting the full lifecycle: lead → registration → counselling → assessment → training → certification → placement, tied to the business side: sales, employee performance, revenue, and reporting.
+- **Employee performance systems** — dashboards tracking calls, conversions, pre-sales/post-sales activity, and team performance, down to individual and manager level.
+- **Sales, marketing, and funnels** — lead generation, WhatsApp-first funnels, Meta advertising, landing pages, CRO, and college/employer partnerships. Commercial execution is as much a part of this work as the technical side.
+- **Healthcare workforce research** — ongoing research into pharma and life-sciences hiring (PV, medical coding, clinical research, regulatory affairs) feeding directly into product decisions, including a recurring "State of PV Hiring in India" intelligence report.
 
-- **AI-Enhanced Platforms**: Developing sophisticated systems that eliminate friction points and exponentially enhance founder productivity
-  
-- **Convergence of Creator Economy & Venture Capital**: Reimagining fundraising through the lens of creator-driven engagement
-  
-- **Enterprise SaaS Architecture**: Designing marketplace solutions with intelligent automation at their core
-  
-- **Strategic Alliance Cultivation**: Forging partnerships that catalyze non-linear growth trajectories
+### Building
+- **Jewels by Dyaa** — a jewellery business I co-founded and operate: product, operations, marketing, customer experience, systems, and growth.
+- **Tesly** — a new venture I'm building from the ground up, spanning product, business model, technology, and execution.
 
-## Current Developmental Focus
+## How I think about AI
 
-- **Full-Stack Engineering Excellence**: Mastering React, Firebase, and React Native for comprehensive product development
-  
-- **Advanced AI Integration**: Implementing OpenAI frameworks for autonomous co-pilot functionalities
-  
-- **Algorithmic Growth Optimization**: Applying data-driven methodologies to early-stage platform expansion
-  
-- **Narrative Architecture**: Crafting compelling technological narratives that resonate with founder ambitions
+Not as a headline — as a tool inside a specific pattern:
 
-## Collaboration Opportunities
+**Business problem → data → AI → workflow → action**
 
-I welcome discourse and potential collaboration in these domains:
+I use it for research, assessments, workforce intelligence, automation, and internal systems — not as a standalone feature.
 
-- Artificial intelligence implementations that fundamentally transform entrepreneurial capabilities
-  
-- Low-friction development environments with measurable business impact metrics
-  
-- Technical content creation through an entrepreneurial lens
-  
-- Strategically orchestrated market entry campaigns powered by intelligent automation
+## What I build with
 
-## Professional Correspondence
+React, TypeScript, JavaScript, Tailwind CSS, TanStack / TanStack Start, Supabase, PostgreSQL, Row Level Security, Cloudflare Workers, Vercel, GitHub Actions, Vite, Playwright, Vitest, OpenAI.
 
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/rahulbathula/)
-- 📧 rahulbathula04@gmail.com
-- 🐦 [Twitter/X Presence](https://twitter.com/rahulbathula04)
+I use these to ship products and internal systems — schemas, RLS policies, auth, dashboards, deployments, CI/CD, API and AI integrations, and the debugging that comes with all of it.
 
-## Personal Identifiers
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,supabase,postgres,cloudflare,vercel,github,vite,figma&theme=light" />
+</div>
 
-He/Him
+## Currently
 
-## Distinguished Perspective
-
-I conceptualize artificial intelligence not merely as a supplementary tool but as a strategic co-founder—an extension of cognitive capacity. My conviction is that commerce's future landscape will be characterized by **autonomous operations, hyper-personalization, and creator-centric leadership models**. 
-
-I invite you to join this transformative journey.
+- Building out Arzon OS and the ASSAY/ACRI assessment infrastructure
+- Growing Jewels by Dyaa
+- Building Tesly from zero
+- Researching healthcare and life-sciences hiring in India
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahulbathula04&style=flat-square&color=0EA5E9" alt="Profile engagement metrics" />
-</p>
+<div align="center">
 
-<p align="center"><em>Elevating ideas through technological innovation and strategic collaboration.</em></p>
+**Reach me:** [LinkedIn](#) · [Email](mailto:rahulbathula04@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,100:1e293b&height=100&section=footer" />
+
+</div>
